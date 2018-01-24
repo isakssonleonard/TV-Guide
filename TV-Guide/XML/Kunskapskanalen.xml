@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv generator-info-name="Taiga XMLTV" generator-info-url="http://xmltv.se">
+  <programme start="20171126013000 +0100" stop="20171126023000 +0100" channel="kunskapskanalen.svt.se">
+    <title lang="sv">Pappan och cancerdraken</title>
+    <desc lang="sv">Spelutvecklaren Ryan bearbetar sorgen över sin son Joels obotliga cancer. Vi följer hur han, tillsammans med familjen, utvecklar ett videospel som handlar om Joels sjukdomsförlopp, och hur det på djupet berör besökarna på spelmässan. Dokumentär. UR.</desc>
+    <date>2015</date>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20171126023000 +0100" stop="20171126031500 +0100" channel="kunskapskanalen.svt.se">
+    <title lang="sv">Berlin-Tokyo med bil</title>
+    <desc lang="sv">Khmerernas rike. Tv-teamet kör i full fart på Asian higway 1 till Sydostasiens största metropol, Bangkok. Vi besöker allt från underjordiska tunnlar från Vietnamkriget till ruinerna från det mäktiga Khmerriket. UR.</desc>
+    <date>2013</date>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">2012 . 5/10 .</episode-num>
+    <episode-num system="onscreen">Episode 6 of 10 season 2013</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20171126090000 +0100" stop="20171126100500 +0100" channel="kunskapskanalen.svt.se">
+    <title lang="sv">UR Samtiden</title>
+    <desc lang="sv">11.05-11.30: Fara eller risk? - Kemikalierna. 11.30-11.50: Fara eller risk? - Medicinerna. 11.50-12.15: Fara eller risk? - Strålningen. 12.15-12.45: Från evidens till praktiska råd. 12.45-13.10: Ätstörningar inom elitidrotten. 13.10-13.30-Ätstörningar ur ett syskonperspektiv. 13.30-14.10: Vetenskapliga fakta om ätstörningar. 14.10-14.45: Samtal med olika perspektiv på ätstörningar. 14.45-15.00: Ett nytt internet. UR.</desc>
+    <date>2017</date>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">2016 . 97/133 .</episode-num>
+    <episode-num system="onscreen">Episode 98 of 133 season 2017</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20171126100500 +0100" stop="20171126110500 +0100" channel="kunskapskanalen.svt.se">
+    <title lang="sv">Forum: SD:s landsdagar</title>
+    <desc lang="sv">Sverigedemokraternas landsdagar i Norrköping. Den avslutande dagen debatteras bland annat arbetsmarknad och EU. Kommentar av Pontus Mattsson. Bisittare: Dick Erixon, chefredaktör Samtiden.</desc>
+    <credits>
+      <presenter>Love Benigh</presenter>
+    </credits>
+    <date>2017</date>
+    <category lang="en">tvshow</category>
+    <category lang="en">Politics</category>
+    <category lang="en">Society</category>
+    <episode-num system="xmltv_ns">2016 . 3/8 .</episode-num>
+    <episode-num system="onscreen">Episode 4 of 8 season 2017</episode-num>
+  </programme>
+  <programme start="20171126110500 +0100" stop="20171126150000 +0100" channel="kunskapskanalen.svt.se">
+    <title lang="sv">UR Samtiden</title>
+    <desc lang="sv">11.05-11.30: Fara eller risk? - Kemikalierna. 11.30-11.50: Fara eller risk? - Medicinerna. 11.50-12.15: Fara eller risk? - Strålningen. 12.15-12.45: Från evidens till praktiska råd. 12.45-13.10: Ätstörningar inom elitidrotten. 13.10-13.30-Ätstörningar ur ett syskonperspektiv. 13.30-14.10: Vetenskapliga fakta om ätstörningar. 14.10-14.45: Samtal med olika perspektiv på ätstörningar. 14.45-15.00: Ett nytt internet. UR.</desc>
+    <date>2017</date>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">2016 . 97/133 .</episode-num>
+    <episode-num system="onscreen">Episode 98 of 133 season 2017</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20171126150000 +0100" stop="20171126151000 +0100" channel="kunskapskanalen.svt.se">
+    <title lang="sv">Byggnadsvårdarna</title>
+    <desc lang="sv">Rödfärg. Reportageserie från Go?kväll. Från Svenska Byggnadsvårdsföreningens sommarläger där man lär sig att ta hand om gamla byggnader och lär sig om traditionella hantverk.</desc>
+    <date>2017</date>
+    <category lang="en">tvshow</category>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0 . 0/5 .</episode-num>
+    <episode-num system="onscreen">Episode 1 of 5 season 1</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20171126151000 +0100" stop="20171126154000 +0100" channel="kunskapskanalen.svt.se">
+    <title lang="sv">Med livet som insats</title>
+    <desc lang="sv">Genom öppen eld. Som liten brukade Andreas Wahl testa att föra ett vått finger genom lågan på ett stearinljus. Han märkte att han inte brände sig om han gjorde det tillräckligt snabbt. Nu vill han testa teorin om värmeöverföring med hela kroppen. Han ska lägga sig i en snabb vagn, blöta ner hela kroppen och åka genom ett eldhav. UR.</desc>
+    <date>2016</date>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">2015 . 1/9 .</episode-num>
+    <episode-num system="onscreen">Episode 2 of 9 season 2016</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20171126154000 +0100" stop="20171126163000 +0100" channel="kunskapskanalen.svt.se">
+    <title lang="sv">Ljudvågornas universum</title>
+    <desc lang="sv">Det ekar. Hur påverkas vi av ljud? Hur kan vi använda ljud? Fysikern Helen Czerski utforskar hur vi kan utnyttja, manipulera och kontrollera ljud. Vi får följa med till den plats på jorden där det allra längsta ekot uppmätts, och får förklarat hur ljudvågorna rör sig. Vi får också veta mer om frekvens, audiologi, innerörats anatomi, cochleaimplantat och resonans. UR.</desc>
+    <date>2016</date>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">2015 . 1/2 .</episode-num>
+    <episode-num system="onscreen">Episode 2 of 2 season 2016</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20171126163000 +0100" stop="20171126173000 +0100" channel="kunskapskanalen.svt.se">
+    <title lang="sv">Guld på godset</title>
+    <desc lang="sv">Programledaren Mette Bluhme Rieck och en rad framstående värderingsexperter åker landet runt på jakt efter danskarnas dolda skatter. Ägarna till några särskilt utvalda antikviteter ges dessutom möjlighet att direkt på plats erbjuda sin klenod till försäljning till en panel professionella uppköpare. Det första av två program inspelade på godset Koldinghus i Kolding, Jylland. Medverkande antikhandlare är Mads Holst, Lis Messmann och Ulrik Kemnitz.</desc>
+    <date>2014</date>
+    <category lang="en">series</category>
+    <category lang="en">Magazine</category>
+    <episode-num system="xmltv_ns">1 . 4/10 .</episode-num>
+    <episode-num system="onscreen">Episode 5 of 10 season 2</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20171126173000 +0100" stop="20171126182000 +0100" channel="kunskapskanalen.svt.se">
+    <title lang="sv">Joanna Lumleys japanska äventyr</title>
+    <desc lang="sv">Geisha i Kyoto. I dagens program besöks Tokyo med sina 38 miljoner innevånare. Träsnittets historia hinns också med. Joanna träffar en man som arbetar enligt de gamla mästarna. Resa till Kyoto där Joanna träffar en blivande geisha som öppet berättar om sin fem år långa utbildning och framtida liv. Hon får arbeta under taget namn och livet som geisha är ett mycket begränsat och kontrollerat liv ur västerländsk synvinkel.</desc>
+    <date>2016</date>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">2015 . 1/3 .</episode-num>
+    <episode-num system="onscreen">Episode 2 of 3 season 2016</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20171126182000 +0100" stop="20171126192000 +0100" channel="kunskapskanalen.svt.se">
+    <title lang="sv">Joyride - jakten på den kvinnliga kondomen</title>
+    <desc lang="sv">Att skapa en kondom för kvinnor skulle lösa en lång rad hälsoproblem, men går det? Uppfinnarna Frank Sadlo och John Tang tror det. Med namn som Luvli och Wondaleaf tävlar deras prototyper om att vinna kvinnornas gunst. Om de lyckas väntar en gigantisk marknad - och en miljon dollar från världens rikaste man.</desc>
+    <date>2017</date>
+    <category lang="en">movie</category>
+    <category lang="en">Politics</category>
+    <category lang="en">Society</category>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20171126192000 +0100" stop="20171126201000 +0100" channel="kunskapskanalen.svt.se">
+    <title lang="sv">Grannarna på bidragsgatan</title>
+    <desc lang="sv">Jultider. På Kingston Road står julen för dörren och det är svårt att satsa på julpynt och julklappar utan att handla på kredit. Frustrationen blir extra kännbar i jultid om bidrag uteblir, men Kingston Roads egna tomtenissar lyser upp tillvaron. UR.</desc>
+    <date>2015</date>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">2014 . 3/4 .</episode-num>
+    <episode-num system="onscreen">Episode 4 of 4 season 2015</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20171126201000 +0100" stop="20171126210000 +0100" channel="kunskapskanalen.svt.se">
+    <title lang="sv">Life</title>
+    <desc lang="sv">Sista avsnittet av BBC:s stora serie Life ägnas vår egen grupp, primaterna. Intelligensen har varit nyckeln till framgång men det krävs utbildning också. Orangutangens ungar går i skola hos sina mödrar i nio år!</desc>
+    <date>2009</date>
+    <category lang="en">series</category>
+    <category lang="en">Nature</category>
+    <episode-num system="xmltv_ns">0 . 9/10 .</episode-num>
+    <episode-num system="onscreen">Episode 10 of 10 season 1</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20171126210000 +0100" stop="20171126215000 +0100" channel="kunskapskanalen.svt.se">
+    <title lang="sv">Jahas löfte</title>
+    <desc lang="sv">Jaha Dukureh utsattes för könsstympning i Gambia som spädbarn och vid 15 års ålder togs hon till New York för att giftas bort med en medelålders man hon aldrig sett. Tio år senare har hon lämnat det påtvingade äktenskapet och återvänder till Gambia i västra Afrika för att propagera mot den förödande tradition som försämrar miljontals kvinnors liv. I dokumentären får vi följa hennes ihärdiga kamp i både med- och motgångar. UR.</desc>
+    <date>2016</date>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20171126215000 +0100" stop="20171126224000 +0100" channel="kunskapskanalen.svt.se">
+    <title lang="sv">Den australiska kusten</title>
+    <sub-title lang="sv">Botany Bay</sub-title>
+    <desc lang="sv">Från stor ingenjörskonst i form av Seacliff Bridge till avgörande ögonblick i kontinentens flyghistoria, kusten söder om Sydney har länge varit i händelsernas centrum. Det är en av Australiens mest befolkade kustremsor, men också med plats för det avskilda och vilda. Alice Garner besöker det isolerade men uppfinningsrika samhället i Sydneys Royal National Park, och Neil Oliver följer i fotspåren av Australiens mest berömda flygkapten, Charles Kingford Smith.</desc>
+    <date>2016</date>
+    <category lang="en">series</category>
+    <category lang="en">Nature</category>
+    <episode-num system="xmltv_ns">2 . 5/8 .</episode-num>
+    <episode-num system="onscreen">Episode 6 of 8 season 3</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20171126224000 +0100" stop="20171126234000 +0100" channel="kunskapskanalen.svt.se">
+    <title lang="sv">USA enligt Oliver Stone</title>
+    <desc lang="sv">Reagan, Gorbatjov och tredje världen. De två männen dominerade världspolitiken under 1980-talet, Reagan och Gorbatjov. Hur är jihad, Star Wars och börskraschen kopplade till dem? Kontroversielle Oliver Stone ger en annan vinkling än vad amerikanerna är vana vid. UR.</desc>
+    <date>2010</date>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">2009 . 7/10 .</episode-num>
+    <episode-num system="onscreen">Episode 8 of 10 season 2010</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20171126234000 +0100" stop="20171127004000 +0100" channel="kunskapskanalen.svt.se">
+    <title lang="sv">Bretts fenomenala fötter</title>
+    <desc lang="sv">Brett föddes utan armar efter en neurosedynskada. I hela sitt liv har han tränat förmågan att använda fötterna. Dokumentär om att genomföra drömmar och idéer trots motstånd och svårigheter. UR.</desc>
+    <date>2015</date>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20171127004000 +0100" stop="20171127013000 +0100" channel="kunskapskanalen.svt.se">
+    <title lang="sv">Mina 85 barn i Himalaya</title>
+    <desc lang="sv">På en bergstopp i Himalaya lever den tidigare buddistiska munken Lobsang. Han har skapat ett barnhem för föräldralösa och utsatta barn. Här bor 85 barn som alla kallar honom pappa. Dokumentären skildrar vardagen och Lobsangs stöd och engagemang i barnens framtid. UR.</desc>
+    <date>2014</date>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+</tv>

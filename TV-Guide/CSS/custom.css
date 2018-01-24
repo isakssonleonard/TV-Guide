@@ -1,0 +1,37 @@
+﻿.footer {  
+    text-align: center;
+}
+
+.wrapper {
+    width: 70%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+ul {
+    list-style: none;
+}
+
+.main {
+    margin-top: 150px;
+}
+
+.Channel-list li {
+    width: 70%;
+    border: 1px solid black;
+    padding: 10px;
+    text-align: left;
+    background-color: #fbfbfb;
+}
+
+.Channel-list {
+    float: left;
+    width: 30%;
+}
+
+li .Icons {
+    display: block;
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+}

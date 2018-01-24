@@ -1,0 +1,41 @@
+﻿@using System.Collections.Generic;
+@using TV_Guide.Models;
+@using MoreLinq;
+@using System.IO;
+@model List<Program>
+
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    const string FOLDER = "Pictures";
+    const string SLASH = "/";
+    const string SIGN = "~";
+}
+
+@section css {
+    <link href="@Url.Content("~/CSS/custom.css")" rel="stylesheet" />
+}
+
+@foreach (var channel in Model.DistinctBy(x => x.Tv.Channel))
+{
+    <ul class="Channel-list">
+        @foreach (string path in Directory.GetFiles(AppDomain.CurrentDomain.BaseDirectory + FOLDER).Select(Path.GetFileName).ToArray())
+        {
+            if (channel.Tv.Channel.Remove(channel.Tv.Channel.IndexOf('.')).Contains(path.Remove(path.IndexOf('.')).ToLower()))
+            {
+                <li><img class="Icons" src="@Url.Content(SIGN + SLASH + FOLDER + SLASH + path)" alt="Logo" title="Image" /></li>
+                break;
+            }
+        }
+
+        @foreach (var item in Model.Where(x => x.Tv.Channel == channel.Tv.Channel))
+        {
+            <li>
+                <p><b>Tid: </b>@item.Start - @item.Stop</p>
+                <p><b>Title: </b>@item.Title</p>
+                <p><b>Beskrivning: </b>@item.Description</p>
+            </li>
+        }
+    </ul>
+}

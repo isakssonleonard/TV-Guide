@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv generator-info-name="Taiga XMLTV" generator-info-url="http://xmltv.se">
+  <programme start="20171121010000 +0100" stop="20171121013000 +0100" channel="sport.tv2.no">
+    <title lang="no">Sportsnyhetene</title>
+    <desc lang="no">Alltid oppdaterte sportsnyheter.</desc>
+    <category lang="en">sports</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20171121013000 +0100" stop="20171121020000 +0100" channel="sport.tv2.no">
+    <title lang="no">Sportsnyhetene</title>
+    <desc lang="no">Alltid oppdaterte sportsnyheter.</desc>
+    <category lang="en">sports</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20171121020000 +0100" stop="20171121023000 +0100" channel="sport.tv2.no">
+    <title lang="no">Sportsnyhetene</title>
+    <desc lang="no">Alltid oppdaterte sportsnyheter.</desc>
+    <category lang="en">sports</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20171121023000 +0100" stop="20171121030000 +0100" channel="sport.tv2.no">
+    <title lang="no">Sportsnyhetene</title>
+    <desc lang="no">Alltid oppdaterte sportsnyheter.</desc>
+    <category lang="en">sports</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20171121030000 +0100" stop="20171121033000 +0100" channel="sport.tv2.no">
+    <title lang="no">Sportsnyhetene</title>
+    <desc lang="no">Alltid oppdaterte sportsnyheter.</desc>
+    <category lang="en">sports</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20171121033000 +0100" stop="20171121040000 +0100" channel="sport.tv2.no">
+    <title lang="no">Sportsnyhetene</title>
+    <desc lang="no">Alltid oppdaterte sportsnyheter.</desc>
+    <category lang="en">sports</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20171121040000 +0100" stop="20171121043000 +0100" channel="sport.tv2.no">
+    <title lang="no">Sportsnyhetene</title>
+    <desc lang="no">Alltid oppdaterte sportsnyheter.</desc>
+    <category lang="en">sports</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20171121043000 +0100" stop="20171121050000 +0100" channel="sport.tv2.no">
+    <title lang="no">Sportsnyhetene</title>
+    <desc lang="no">Alltid oppdaterte sportsnyheter.</desc>
+    <category lang="en">sports</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20171121050000 +0100" stop="20171121053000 +0100" channel="sport.tv2.no">
+    <title lang="no">Sportsnyhetene</title>
+    <desc lang="no">Alltid oppdaterte sportsnyheter.</desc>
+    <category lang="en">sports</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20171121053000 +0100" stop="20171121060000 +0100" channel="sport.tv2.no">
+    <title lang="no">Sportsnyhetene</title>
+    <desc lang="no">Alltid oppdaterte sportsnyheter.</desc>
+    <category lang="en">sports</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20171121060000 +0100" stop="20171121180000 +0100" channel="sport.tv2.no">
+    <title lang="no">Sportsnyhetene</title>
+    <desc lang="no">Alltid oppdaterte sportsnyheter.</desc>
+    <category lang="en">sports</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20171121180000 +0100" stop="20171121183000 +0100" channel="sport.tv2.no">
+    <title lang="no">Premier Leaks</title>
+    <desc lang="no">Programmet der du skaper innholdet! Et gjensyn med det du som seer mener var det mest interessante i siste Premier League-runde. Programleder: Helge Kalleklev.</desc>
+    <category lang="en">series</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20171121183000 +0100" stop="20171121185000 +0100" channel="sport.tv2.no">
+    <title lang="no">Neste Generasjon: Håndball</title>
+    <category lang="en">series</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20171121185000 +0100" stop="20171121213000 +0100" channel="sport.tv2.no">
+    <title lang="no">Get-ligaen: Stjernen - Storhamar</title>
+    <desc lang="no">Storhamar tar imot iskrigerne til dyst i CC Amfi. Kommentatorer: Dima Smirnov og Eirik Haugen Johansen.</desc>
+    <category lang="en">sports</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20171121213000 +0100" stop="20171121220000 +0100" channel="sport.tv2.no">
+    <title lang="no">Iskrigerne</title>
+    <desc lang="no">Shampo og hans gravide kone Fanny er travelt opptatt med pusse opp et gammelt hus. Treneren blir ikke mindre travel da babyen melder sin ankomst midt i den mest hektiske delen av hockeyåret.</desc>
+    <credits>
+      <director>Vegard Besstun Normann</director>
+      <actor>Alexander Bonsaksen</actor>
+      <actor>Brede Csiszar</actor>
+      <actor>Cato Cocozza</actor>
+      <actor>Erik Follestad Johansen</actor>
+      <actor>Espen Knutsen</actor>
+      <actor>Jonas Oppøyen</actor>
+      <actor>Morten Ask</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">0.18/20.</episode-num>
+    <episode-num system="onscreen">Episode 19 of 20 season 1</episode-num>
+  </programme>
+  <programme start="20171121220000 +0100" stop="20171121223000 +0100" channel="sport.tv2.no">
+    <title lang="no">Premier Leaks</title>
+    <desc lang="no">Programmet der du skaper innholdet! Et gjensyn med det du som seer mener var det mest interessante i siste Premier League-runde. Programleder: Helge Kalleklev.</desc>
+    <category lang="en">series</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20171121223000 +0100" stop="20171121230000 +0100" channel="sport.tv2.no">
+    <title lang="no">Netbusters</title>
+    <desc lang="no">Se de beste målene, de flotteste redningene og de største tabbene fra Premier League.</desc>
+    <category lang="en">series</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20171121230000 +0100" stop="20171122000000 +0100" channel="sport.tv2.no">
+    <title lang="no">Premier League Monday Review</title>
+    <desc lang="no">Høydepunkter fra rundens kamper i Barclays Premier League.</desc>
+    <category lang="en">series</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20171122000000 +0100" stop="20171122003000 +0100" channel="sport.tv2.no">
+    <title lang="no">Gillette World Sport</title>
+    <desc lang="no">Ukentlig magasin med fokus på presisjon i idretten. Vi ser på hvordan teknologi, naturtalent og ulike treningsteknikker kan utgjøre forskjellen mellom seier og tap.</desc>
+    <category lang="en">series</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20171122003000 +0100" stop="20171122010000 +0100" channel="sport.tv2.no">
+    <title lang="no">Sportsnyhetene</title>
+    <desc lang="no">Alltid oppdaterte sportsnyheter.</desc>
+    <category lang="en">sports</category>
+    <category lang="en">Sports</category>
+  </programme>
+</tv>

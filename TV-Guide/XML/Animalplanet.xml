@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv generator-info-name="Taiga XMLTV" generator-info-url="http://xmltv.se">
+  <programme start="20171201013500 +0100" stop="20171201020000 +0100" channel="animalplanet.discovery.eu">
+    <title lang="en">Orangutan Island</title>
+    <sub-title lang="en">Fight Club</sub-title>
+    <desc lang="en">Anarchy rules in the power vacuum left by Hamlet. The stakes are high as tenacious contender Reno vies for dominance with the older Palas Island males.</desc>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">1 . 4 .</episode-num>
+    <episode-num system="onscreen">Episode 5 season 2</episode-num>
+  </programme>
+  <programme start="20171201020000 +0100" stop="20171201022500 +0100" channel="animalplanet.discovery.eu">
+    <title lang="en">Orangutan Island</title>
+    <sub-title lang="en">Kindred Spirits</sub-title>
+    <desc lang="en">Conflict between the two orang-utan communities escalates into a perilous contest in which maladjusted orang-utan Jordan could lose his life.</desc>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">1 . 5 .</episode-num>
+    <episode-num system="onscreen">Episode 6 season 2</episode-num>
+  </programme>
+  <programme start="20171201022500 +0100" stop="20171201031500 +0100" channel="animalplanet.discovery.eu">
+    <title lang="en">Whale Wars</title>
+    <sub-title lang="en">Battle Cry</sub-title>
+    <desc lang="en">As the campaign season begins, a new vessel, the Gojira, joins the Sea Shepherd fleet. Things look good as they track down two harpoon ships before they've killed a single whale.</desc>
+    <credits>
+      <actor role="Captain">Alex Cornelissen</actor>
+      <actor role="Captain">Siddharth Chakravarty</actor>
+      <actor role="Captain">Peter Hammarstedt</actor>
+      <actor role="Captain">Locky MacLean</actor>
+      <actor role="Captain">Paul Watson</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <url>http://thetvdb.com/?tab=episode&amp;seriesid=83682&amp;seasonid=465630&amp;id=4097078&amp;lid=7</url>
+    <episode-num system="xmltv_ns">3 . 0 .</episode-num>
+    <episode-num system="onscreen">Episode 1 season 4</episode-num>
+    <episode-num system="thetvdb.com">series/83682</episode-num>
+    <star-rating>
+      <value>7.5 / 9</value>
+    </star-rating>
+  </programme>
+  <programme start="20171201031500 +0100" stop="20171201040200 +0100" channel="animalplanet.discovery.eu">
+    <title lang="en">Whale Wars</title>
+    <sub-title lang="en">No Escape</sub-title>
+    <desc lang="en">When Paul decides to abandon the harpoon ships and go in search of the factory vessel, the tables soon turn, as the two harpoon ships begin tailing the Steve Irwin.</desc>
+    <credits>
+      <actor role="Captain">Alex Cornelissen</actor>
+      <actor role="Captain">Siddharth Chakravarty</actor>
+      <actor role="Captain">Peter Hammarstedt</actor>
+      <actor role="Captain">Locky MacLean</actor>
+      <actor role="Captain">Paul Watson</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <url>http://thetvdb.com/?tab=episode&amp;seriesid=83682&amp;seasonid=465630&amp;id=4100335&amp;lid=7</url>
+    <episode-num system="xmltv_ns">3 . 1 .</episode-num>
+    <episode-num system="onscreen">Episode 2 season 4</episode-num>
+    <episode-num system="thetvdb.com">series/83682</episode-num>
+    <star-rating>
+      <value>7.5 / 9</value>
+    </star-rating>
+  </programme>
+  <programme start="20171201040200 +0100" stop="20171201044900 +0100" channel="animalplanet.discovery.eu">
+    <title lang="en">Wildest Indochina</title>
+    <sub-title lang="en">Malaysia - Freaks of Nature</sub-title>
+    <desc lang="en">Explore Cambodia, one of the most biodiverse countries in Southeast Asia, whose wildlife and climate is ruled by the impact of the annual monsoon cycle.</desc>
+    <date>2014</date>
+    <category lang="en">series</category>
+    <category lang="en">Documentary</category>
+    <url>http://thetvdb.com/?tab=episode&amp;seriesid=282879&amp;seasonid=588594&amp;id=4910125&amp;lid=7</url>
+    <episode-num system="xmltv_ns">0 . 0 .</episode-num>
+    <episode-num system="onscreen">Episode 1 season 1</episode-num>
+    <episode-num system="thetvdb.com">series/282879</episode-num>
+  </programme>
+  <programme start="20171201044900 +0100" stop="20171201053600 +0100" channel="animalplanet.discovery.eu">
+    <title lang="en">Untamed &amp; Uncut</title>
+    <sub-title lang="en">Elephant Shock</sub-title>
+    <desc lang="en">Rescuers rush to save a wet elephant that has wrapped her trunk around a live electrical wire. Can they help without being shocked themselves?</desc>
+    <date>2008</date>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <url>http://thetvdb.com/?tab=episode&amp;seriesid=306706&amp;seasonid=654236&amp;id=5495875&amp;lid=7</url>
+    <episode-num system="xmltv_ns">0 . 12 .</episode-num>
+    <episode-num system="onscreen">Episode 13 season 1</episode-num>
+    <episode-num system="thetvdb.com">series/306706</episode-num>
+  </programme>
+  <programme start="20171201053600 +0100" stop="20171201060000 +0100" channel="animalplanet.discovery.eu">
+    <title lang="en">Escape to Chimp Eden</title>
+    <sub-title lang="en">Moving Day for the Adults, Part 2</sub-title>
+    <desc lang="en">A seemingly minor bust-up between chimps Josephine and Jinga escalates, and Josephine escapes into the wilderness. Can she be found?</desc>
+    <credits>
+      <director>Anton Truesdale</director>
+      <actor>Eugene Cussons</actor>
+    </credits>
+    <category lang="en">series</category>
+    <category lang="en">Documentary</category>
+    <url>http://thetvdb.com/?tab=episode&amp;seriesid=162381&amp;seasonid=318631&amp;id=2832611&amp;lid=7</url>
+    <episode-num system="xmltv_ns">1 . 15 .</episode-num>
+    <episode-num system="onscreen">Episode 16 season 2</episode-num>
+    <episode-num system="thetvdb.com">series/162381</episode-num>
+  </programme>
+  <programme start="20171201060000 +0100" stop="20171201062500 +0100" channel="animalplanet.discovery.eu">
+    <title lang="en">Escape to Chimp Eden</title>
+    <sub-title lang="en">Growing Pains for the Infants</sub-title>
+    <desc lang="en">How will Jao's infant chimp family cope with their move to the old adult enclosure? Can Zac seize his chance to unseat alpha male Jao?</desc>
+    <credits>
+      <director>Anton Truesdale</director>
+      <actor>Eugene Cussons</actor>
+    </credits>
+    <category lang="en">series</category>
+    <category lang="en">Documentary</category>
+    <url>http://thetvdb.com/?tab=episode&amp;seriesid=162381&amp;seasonid=318631&amp;id=2832621&amp;lid=7</url>
+    <episode-num system="xmltv_ns">1 . 16 .</episode-num>
+    <episode-num system="onscreen">Episode 17 season 2</episode-num>
+    <episode-num system="thetvdb.com">series/162381</episode-num>
+  </programme>
+  <programme start="20171201062500 +0100" stop="20171201065000 +0100" channel="animalplanet.discovery.eu">
+    <title lang="en">Orangutan Island</title>
+    <sub-title lang="en">Fight Club</sub-title>
+    <desc lang="en">Anarchy rules in the power vacuum left by Hamlet. The stakes are high as tenacious contender Reno vies for dominance with the older Palas Island males.</desc>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">1 . 4 .</episode-num>
+    <episode-num system="onscreen">Episode 5 season 2</episode-num>
+  </programme>
+  <programme start="20171201065000 +0100" stop="20171201071500 +0100" channel="animalplanet.discovery.eu">
+    <title lang="en">Orangutan Island</title>
+    <sub-title lang="en">Kindred Spirits</sub-title>
+    <desc lang="en">Conflict between the two orang-utan communities escalates into a perilous contest in which maladjusted orang-utan Jordan could lose his life.</desc>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">1 . 5 .</episode-num>
+    <episode-num system="onscreen">Episode 6 season 2</episode-num>
+  </programme>
+  <programme start="20171201071500 +0100" stop="20171201081000 +0100" channel="animalplanet.discovery.eu">
+    <title lang="en">Treehouse Masters</title>
+    <sub-title lang="en">Towering Treetop Teahouse</sub-title>
+    <desc lang="en">A family needs Pete's help to create a traditional Japanese Teahouse treehouse to complete a Zen-like paradise in their backyard. How will they get on?</desc>
+    <date>2013</date>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <url>http://thetvdb.com/?tab=episode&amp;seriesid=270071&amp;seasonid=570669&amp;id=4923377&amp;lid=7</url>
+    <episode-num system="xmltv_ns">1 . 11 .</episode-num>
+    <episode-num system="onscreen">Episode 12 season 2</episode-num>
+    <episode-num system="thetvdb.com">series/270071</episode-num>
+    <star-rating>
+      <value>7 / 9</value>
+    </star-rating>
+  </programme>
+  <programme start="20171201081000 +0100" stop="20171201090500 +0100" channel="animalplanet.discovery.eu">
+    <title lang="en">Preposterous Pets</title>
+    <sub-title lang="en">Pimped Out Poodles and Cuddly Tarantulas</sub-title>
+    <desc lang="en">Discover the latest pet craze to take the US by storm as owners pimp out their poodles to compete in grooming contests. Plus, in Kenya meet a household of domesticated giraffes.</desc>
+    <date>2015</date>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <url>http://thetvdb.com/?tab=episode&amp;seriesid=283300&amp;seasonid=589784&amp;id=4921091&amp;lid=7</url>
+    <episode-num system="xmltv_ns">0 . 3 .</episode-num>
+    <episode-num system="onscreen">Episode 4 season 1</episode-num>
+    <episode-num system="thetvdb.com">series/283300</episode-num>
+  </programme>
+  <programme start="20171201090500 +0100" stop="20171201100000 +0100" channel="animalplanet.discovery.eu">
+    <title lang="en">Wildest Indochina</title>
+    <sub-title lang="en">Malaysia - Freaks of Nature</sub-title>
+    <desc lang="en">Explore Cambodia, one of the most biodiverse countries in Southeast Asia, whose wildlife and climate is ruled by the impact of the annual monsoon cycle.</desc>
+    <date>2014</date>
+    <category lang="en">series</category>
+    <category lang="en">Documentary</category>
+    <url>http://thetvdb.com/?tab=episode&amp;seriesid=282879&amp;seasonid=588594&amp;id=4910125&amp;lid=7</url>
+    <episode-num system="xmltv_ns">0 . 0 .</episode-num>
+    <episode-num system="onscreen">Episode 1 season 1</episode-num>
+    <episode-num system="thetvdb.com">series/282879</episode-num>
+  </programme>
+  <programme start="20171201100000 +0100" stop="20171201102800 +0100" channel="animalplanet.discovery.eu">
+    <title lang="en">Orangutan Island</title>
+    <sub-title lang="en">Fight Club</sub-title>
+    <desc lang="en">Anarchy rules in the power vacuum left by Hamlet. The stakes are high as tenacious contender Reno vies for dominance with the older Palas Island males.</desc>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">1 . 4 .</episode-num>
+    <episode-num system="onscreen">Episode 5 season 2</episode-num>
+  </programme>
+  <programme start="20171201102800 +0100" stop="20171201105500 +0100" channel="animalplanet.discovery.eu">
+    <title lang="en">Orangutan Island</title>
+    <sub-title lang="en">Kindred Spirits</sub-title>
+    <desc lang="en">Conflict between the two orang-utan communities escalates into a perilous contest in which maladjusted orang-utan Jordan could lose his life.</desc>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">1 . 5 .</episode-num>
+    <episode-num system="onscreen">Episode 6 season 2</episode-num>
+  </programme>
+  <programme start="20171201105500 +0100" stop="20171201115000 +0100" channel="animalplanet.discovery.eu">
+    <title lang="en">Killer Whales</title>
+    <desc lang="en">Killer whales, the 'wolves of the sea', roam the world's oceans. They are highly social and deadly and at the top of the aquatic food chain. Watch as they hunt and feed.</desc>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+  </programme>
+  <programme start="20171201115000 +0100" stop="20171201124500 +0100" channel="animalplanet.discovery.eu">
+    <title lang="en">Deadly Islands</title>
+    <sub-title lang="en">Grizzly Bear Island</sub-title>
+    <desc lang="en">Predator expert Dave Salmoni travels to a remote speck of land in the wild and stormy South Atlantic, which is visited by a huge number of hunting killer whales.</desc>
+    <credits>
+      <actor role="Narrator">Dave Salmoni</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="en">series</category>
+    <category lang="en">Documentary</category>
+    <url>http://thetvdb.com/?tab=episode&amp;seriesid=281383&amp;seasonid=584774&amp;id=4876180&amp;lid=7</url>
+    <episode-num system="xmltv_ns">0 . 1 .</episode-num>
+    <episode-num system="onscreen">Episode 2 season 1</episode-num>
+    <episode-num system="thetvdb.com">series/281383</episode-num>
+  </programme>
+  <programme start="20171201124500 +0100" stop="20171201134000 +0100" channel="animalplanet.discovery.eu">
+    <title lang="en">Preposterous Pets</title>
+    <sub-title lang="en">Pimped Out Poodles and Cuddly Tarantulas</sub-title>
+    <desc lang="en">Discover the latest pet craze to take the US by storm as owners pimp out their poodles to compete in grooming contests. Plus, in Kenya meet a household of domesticated giraffes.</desc>
+    <date>2015</date>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <url>http://thetvdb.com/?tab=episode&amp;seriesid=283300&amp;seasonid=589784&amp;id=4921091&amp;lid=7</url>
+    <episode-num system="xmltv_ns">0 . 3 .</episode-num>
+    <episode-num system="onscreen">Episode 4 season 1</episode-num>
+    <episode-num system="thetvdb.com">series/283300</episode-num>
+  </programme>
+  <programme start="20171201134000 +0100" stop="20171201143500 +0100" channel="animalplanet.discovery.eu">
+    <title lang="en">Wildest Indochina</title>
+    <sub-title lang="en">Malaysia - Freaks of Nature</sub-title>
+    <desc lang="en">Explore Cambodia, one of the most biodiverse countries in Southeast Asia, whose wildlife and climate is ruled by the impact of the annual monsoon cycle.</desc>
+    <date>2014</date>
+    <category lang="en">series</category>
+    <category lang="en">Documentary</category>
+    <url>http://thetvdb.com/?tab=episode&amp;seriesid=282879&amp;seasonid=588594&amp;id=4910125&amp;lid=7</url>
+    <episode-num system="xmltv_ns">0 . 0 .</episode-num>
+    <episode-num system="onscreen">Episode 1 season 1</episode-num>
+    <episode-num system="thetvdb.com">series/282879</episode-num>
+  </programme>
+  <programme start="20171201143500 +0100" stop="20171201153000 +0100" channel="animalplanet.discovery.eu">
+    <title lang="en">Untamed &amp; Uncut</title>
+    <sub-title lang="en">Amazing Attacks</sub-title>
+    <desc lang="en">An environmentalist becomes the rope in a tug-of-war between a great white shark and her rescuers, and an alligator wrestler may just have met his match.</desc>
+    <date>2008</date>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <url>http://thetvdb.com/?tab=episode&amp;seriesid=306706&amp;seasonid=654236&amp;id=5495877&amp;lid=7</url>
+    <episode-num system="xmltv_ns">0 . 13 .</episode-num>
+    <episode-num system="onscreen">Episode 14 season 1</episode-num>
+    <episode-num system="thetvdb.com">series/306706</episode-num>
+  </programme>
+  <programme start="20171201153000 +0100" stop="20171201162500 +0100" channel="animalplanet.discovery.eu">
+    <title lang="en">Treehouse Masters</title>
+    <sub-title lang="en">Vincent Van Treehouse</sub-title>
+    <desc lang="en">Three siblings enlist Pete's help to surprise their parents with a rustic art studio treehouse on their historic family farm in Wisconsin. How will he get on?</desc>
+    <date>2013</date>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <url>http://thetvdb.com/?tab=episode&amp;seriesid=270071&amp;seasonid=607321&amp;id=4931782&amp;lid=7</url>
+    <episode-num system="xmltv_ns">2 . 7 .</episode-num>
+    <episode-num system="onscreen">Episode 8 season 3</episode-num>
+    <episode-num system="thetvdb.com">series/270071</episode-num>
+  </programme>
+  <programme start="20171201162500 +0100" stop="20171201172000 +0100" channel="animalplanet.discovery.eu">
+    <title lang="en">Keeping Up With The Kruger</title>
+    <sub-title lang="en">Episode 4</sub-title>
+    <desc lang="en">A raw and unique glimpse into the day-to-day adventures of the dedicated band of people that keeps South Africa's Kruger National Park running.</desc>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">0 . 3 .</episode-num>
+    <episode-num system="onscreen">Episode 4 season 1</episode-num>
+  </programme>
+  <programme start="20171201172000 +0100" stop="20171201181500 +0100" channel="animalplanet.discovery.eu">
+    <title lang="en">Wildest Africa</title>
+    <sub-title lang="en">Madagascar Island of Monsters</sub-title>
+    <desc lang="en">Stretching for thousands of square kilometres, the world's largest salt lake receives little rainfall and temperatures fluctuate wildly. How can life flourish in this environment?</desc>
+    <date>2013</date>
+    <category lang="en">series</category>
+    <category lang="en">Documentary</category>
+    <url>http://thetvdb.com/?tab=episode&amp;seriesid=265817&amp;seasonid=509909&amp;id=4476075&amp;lid=7</url>
+    <episode-num system="xmltv_ns">0 . 6 .</episode-num>
+    <episode-num system="onscreen">Episode 7 season 1</episode-num>
+    <episode-num system="thetvdb.com">series/265817</episode-num>
+  </programme>
+  <programme start="20171201181500 +0100" stop="20171201191000 +0100" channel="animalplanet.discovery.eu">
+    <title lang="en">Preposterous Pets</title>
+    <sub-title lang="en">Mr Lizardlover and Ratty Relatives</sub-title>
+    <desc lang="en">Meet the lizard obsessive who changed his name to Mr Lizardlover and found fame taking photos of his scaly friends posing as humans.</desc>
+    <date>2015</date>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <url>http://thetvdb.com/?tab=episode&amp;seriesid=283300&amp;seasonid=589784&amp;id=4921092&amp;lid=7</url>
+    <episode-num system="xmltv_ns">0 . 4 .</episode-num>
+    <episode-num system="onscreen">Episode 5 season 1</episode-num>
+    <episode-num system="thetvdb.com">series/283300</episode-num>
+  </programme>
+  <programme start="20171201191000 +0100" stop="20171201193800 +0100" channel="animalplanet.discovery.eu">
+    <title lang="en">Dark Days in Monkey City</title>
+    <sub-title lang="en">Born of the Storm</sub-title>
+    <desc lang="en">In Monkey City, the Temple Troop have ruled for years. But as internal squabbles over the throne weaken their rule, the Black Claws attempt to claim the city for their own.</desc>
+    <date>2009</date>
+    <category lang="en">series</category>
+    <category lang="en">Documentary</category>
+    <url>http://thetvdb.com/?tab=episode&amp;seriesid=180731&amp;seasonid=291641&amp;id=2585651&amp;lid=7</url>
+    <episode-num system="xmltv_ns">0 . 0 .</episode-num>
+    <episode-num system="onscreen">Episode 1 season 1</episode-num>
+    <episode-num system="thetvdb.com">series/180731</episode-num>
+  </programme>
+  <programme start="20171201193800 +0100" stop="20171201200500 +0100" channel="animalplanet.discovery.eu">
+    <title lang="en">Dark Days in Monkey City</title>
+    <sub-title lang="en">To Be King</sub-title>
+    <desc lang="en">King Lear faces rebellion in the ranks as others fight for his crown. Meanwhile, the Black Claws mount their plans for attack as war brews in Monkey City.</desc>
+    <date>2009</date>
+    <category lang="en">series</category>
+    <category lang="en">Documentary</category>
+    <url>http://thetvdb.com/?tab=episode&amp;seriesid=180731&amp;seasonid=291641&amp;id=2585661&amp;lid=7</url>
+    <episode-num system="xmltv_ns">0 . 1 .</episode-num>
+    <episode-num system="onscreen">Episode 2 season 1</episode-num>
+    <episode-num system="thetvdb.com">series/180731</episode-num>
+  </programme>
+  <programme start="20171201200500 +0100" stop="20171201210000 +0100" channel="animalplanet.discovery.eu">
+    <title lang="en">Keeping Up With The Kruger</title>
+    <sub-title lang="en">Episode 4</sub-title>
+    <desc lang="en">A raw and unique glimpse into the day-to-day adventures of the dedicated band of people that keeps South Africa's Kruger National Park running.</desc>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">0 . 3 .</episode-num>
+    <episode-num system="onscreen">Episode 4 season 1</episode-num>
+  </programme>
+  <programme start="20171201210000 +0100" stop="20171201215500 +0100" channel="animalplanet.discovery.eu">
+    <title lang="en">Wildest Africa</title>
+    <sub-title lang="en">Madagascar Island of Monsters</sub-title>
+    <desc lang="en">Stretching for thousands of square kilometres, the world's largest salt lake receives little rainfall and temperatures fluctuate wildly. How can life flourish in this environment?</desc>
+    <date>2013</date>
+    <category lang="en">series</category>
+    <category lang="en">Documentary</category>
+    <url>http://thetvdb.com/?tab=episode&amp;seriesid=265817&amp;seasonid=509909&amp;id=4476075&amp;lid=7</url>
+    <episode-num system="xmltv_ns">0 . 6 .</episode-num>
+    <episode-num system="onscreen">Episode 7 season 1</episode-num>
+    <episode-num system="thetvdb.com">series/265817</episode-num>
+  </programme>
+  <programme start="20171201215500 +0100" stop="20171201225000 +0100" channel="animalplanet.discovery.eu">
+    <title lang="en">Wildest Indochina</title>
+    <sub-title lang="en">Thailand - Nature's Survivors</sub-title>
+    <desc lang="en">Vietnam is the easternmost country on the Indochina peninsula in Southeast Asia, and around 10% of the world's species live here causing its jungles to burst with wildlife.</desc>
+    <date>2014</date>
+    <category lang="en">series</category>
+    <category lang="en">Documentary</category>
+    <url>http://thetvdb.com/?tab=episode&amp;seriesid=282879&amp;seasonid=588594&amp;id=4910126&amp;lid=7</url>
+    <episode-num system="xmltv_ns">0 . 1 .</episode-num>
+    <episode-num system="onscreen">Episode 2 season 1</episode-num>
+    <episode-num system="thetvdb.com">series/282879</episode-num>
+  </programme>
+  <programme start="20171201225000 +0100" stop="20171201234500 +0100" channel="animalplanet.discovery.eu">
+    <title lang="en">Untamed &amp; Uncut</title>
+    <sub-title lang="en">Amazing Attacks</sub-title>
+    <desc lang="en">An environmentalist becomes the rope in a tug-of-war between a great white shark and her rescuers, and an alligator wrestler may just have met his match.</desc>
+    <date>2008</date>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <url>http://thetvdb.com/?tab=episode&amp;seriesid=306706&amp;seasonid=654236&amp;id=5495877&amp;lid=7</url>
+    <episode-num system="xmltv_ns">0 . 13 .</episode-num>
+    <episode-num system="onscreen">Episode 14 season 1</episode-num>
+    <episode-num system="thetvdb.com">series/306706</episode-num>
+  </programme>
+  <programme start="20171201234500 +0100" stop="20171202004000 +0100" channel="animalplanet.discovery.eu">
+    <title lang="en">Treehouse Masters</title>
+    <sub-title lang="en">Vincent Van Treehouse</sub-title>
+    <desc lang="en">Three siblings enlist Pete's help to surprise their parents with a rustic art studio treehouse on their historic family farm in Wisconsin. How will he get on?</desc>
+    <date>2013</date>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <url>http://thetvdb.com/?tab=episode&amp;seriesid=270071&amp;seasonid=607321&amp;id=4931782&amp;lid=7</url>
+    <episode-num system="xmltv_ns">2 . 7 .</episode-num>
+    <episode-num system="onscreen">Episode 8 season 3</episode-num>
+    <episode-num system="thetvdb.com">series/270071</episode-num>
+  </programme>
+  <programme start="20171202004000 +0100" stop="20171202013500 +0100" channel="animalplanet.discovery.eu">
+    <title lang="en">Preposterous Pets</title>
+    <sub-title lang="en">Mr Lizardlover and Ratty Relatives</sub-title>
+    <desc lang="en">Meet the lizard obsessive who changed his name to Mr Lizardlover and found fame taking photos of his scaly friends posing as humans.</desc>
+    <date>2015</date>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <url>http://thetvdb.com/?tab=episode&amp;seriesid=283300&amp;seasonid=589784&amp;id=4921092&amp;lid=7</url>
+    <episode-num system="xmltv_ns">0 . 4 .</episode-num>
+    <episode-num system="onscreen">Episode 5 season 1</episode-num>
+    <episode-num system="thetvdb.com">series/283300</episode-num>
+  </programme>
+</tv>

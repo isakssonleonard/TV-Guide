@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Din TV-Guide</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="~/Content/bootstrap.min.css" type="text/css" />
+    <link href="@Url.Content("~/CSS/custom.css")" rel="stylesheet" />
+    @RenderSection("css", false)
+</head>
+<body>
+    <header class="header">
+        <nav class="navbar navbar-default">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="#">Din TV Guide</a>
+                </div>
+                <ul class="nav navbar-nav">
+                    <li class="active"><a href="#">Tablå</a></li>
+                    <li><a href="#">Serier</a></li>
+                    <li><a href="#">Film</a></li>
+                    <li><a href="#">Om oss</a></li>
+                    <li><a href="#">Kontakt</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <main class="main">
+        <div class="wrapper">
+            @RenderBody()
+        </div>
+    </main>
+
+    <footer class="footer navbar-fixed-bottom">
+        <p>&copy; Din TV-Guide.se</p>
+    </footer>    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+</body>
+</html>
